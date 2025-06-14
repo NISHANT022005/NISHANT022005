@@ -1,16 +1,21 @@
-## Hi there 👋
+Hii there !!
+I am Nishant Kumar Singh of
+🎓 CSE 4 | Siddharth College
+💻 Full Stack Developer in Training
 
-    <!--
-**NISHANT022005/NISHANT022005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🌱 Currently diving deep into the world of Full Stack Development
+🏫 Proud student at Siddharth College
+👨‍💻 I love building web applications, exploring new technologies, and solving real-world problems with code
+✨ Passionate about continuous learning and collaboration
+🛠️ Tech Stack
+Languages: JavaScript, Python, C++
+Frontend: HTML5, CSS3, React.js
+Backend: Node.js, Express.js
+Database: MongoDB, MySQL
+Tools: Git, GitHub, VS Code
+🌟 Let's Connect!
+📬 Email: nishantkr.singh@email.com
+💼 LinkedIn (Add your LinkedIn link here)
+🌐 Portfolio (Add your portfolio link here)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
